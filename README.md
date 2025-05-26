@@ -30,8 +30,8 @@ Evaluate the model using the test dataset and visualize the results (accuracy, c
 
 ## PROGRAM
 
-### Name: Narendran K
-### Register Number: 212223230135
+### Name: Delli Priya L
+### Register Number: 212222230029
 
 ```
 import torch
